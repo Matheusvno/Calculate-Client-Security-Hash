@@ -1,4 +1,5 @@
-# Calculate-Client-Security-Hash
+# Calculate Client Security Hash
+
 Calculate Client Security Hash Dispacher and Performer for UiPath Course.
 
 Steps performed by the Robot:
